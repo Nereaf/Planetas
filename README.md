@@ -1,5 +1,2 @@
-# Planetas
-Practica 6, planetas con texturas
-Pulsando o se quitan o ponen las orbitas
-Con e se quitan o ponen los ejes
-con las flechas se puede mover la cámara
+# Sistema Solar
+Se ha realizado un sistema solar para la asignatura de computación gráfica. Permite introducir texturas y seleccionar la vista en la que se quiere centrar.
